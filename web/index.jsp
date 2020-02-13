@@ -17,7 +17,7 @@
                 <tr><td>Jefe</td><td><input type="test" name="txtjefe"></td></tr>
                 <tr><td>Clave</td><td><input type="test" name="txtclave"></td></tr>
             </table>
-            <br>
+            <br><br>
             <input type="submit" value="Ingresar" class="btn btn-info">
         </form>
     </body>
